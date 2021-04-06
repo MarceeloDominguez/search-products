@@ -1,0 +1,25 @@
+.card-error {
+    display: flex;
+    justify-content: center;
+    padding: 42px 40px 32px;
+}
+
+.error {
+    padding: 30px 110px 30px 110px;
+    background: white;
+    border-radius: 2px;
+    color: black;
+}
+
+.search-plus {
+    position: relative;
+    top: 40px;
+    left: 80px;
+    font-size: 60px;
+}
+
+ul li{
+    position: relative;
+    left: 15px;
+    padding: 3px;
+}
